@@ -1,0 +1,49 @@
+
+.box{
+    padding-left: 30px;
+    perspective: 20pt;
+    padding-bottom: 50px;
+
+    padding: 100px 120px 130px;
+    border: 10px darkblue;
+    margin: 200px;
+    background-color: aqua;
+}
+
+    
+.rect{
+       padding: 100px 50px 100px;
+        border: 10px solid green;
+        margin: 20px;
+    }
+
+.rect1{
+    padding: 8px solid red;
+    padding: 250px 250px  250px;
+    border: 10px rgb(164, 38, 38) ;
+
+
+    margin: 20px ;
+    
+}
+
+.rect2{
+    padding: 15px 15px 50px;
+   border: 20 px solid black; 
+    margin: 40px ;
+    
+}
+
+.rect3{
+
+    padding: 10px 20px 30px;
+    border: 8px solid purple;
+}
+body{
+ background-size: cover;
+    background-image: url(IMG-20210327-WA0000.jpg)
+}
+
+
+
+

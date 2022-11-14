@@ -1,0 +1,36 @@
+div p {
+color: rgb(206, 88, 88);
+}
+p
+{
+    color: rgb(65, 215, 133);
+}
+
+div > p 
+{
+    color: rgb(81, 50, 205);
+}
+/*adjecent sibling selecter */
+div+p{
+    color: antiquewhite;
+}
+/*genarater*/
+div~P{
+    color: purple;
+}
+body
+{
+    background-image:url(IMG-20210327-WA0000.jpg);
+}
+.static{
+    position: static;
+    left: 100px;
+
+}
+.relative{
+position: relative;
+top: 20px;
+right: -200px;
+
+}
+
